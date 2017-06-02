@@ -29,7 +29,7 @@
   },
   "autoload": {
       "psr-0" : {
-          "thisbailiwick\\SageDefault" : "src"
+          "thisbailiwick\\sage-default" : "src"
       }
   }
 }
